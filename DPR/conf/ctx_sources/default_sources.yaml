@@ -1,0 +1,6 @@
+# @package _group_
+
+dpr_wiki:
+  _target_: dpr.data.retriever_data.CsvCtxSrc
+  file: /data/lihuan/DPR/DPR-main/downloads/wikipedia_split/corpus_cn_train.tsv
+  id_prefix: 'wiki:'
