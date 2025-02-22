@@ -12,8 +12,6 @@ from torch.optim import AdamW
 from tqdm import tqdm
 from accelerate import Accelerator
 from evaluation import *
-import nltk
-from rouge import Rouge
 from LoadDataset import LoadDataset
 import sys
 import numpy as np
