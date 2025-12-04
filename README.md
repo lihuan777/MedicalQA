@@ -65,7 +65,7 @@ https://github.com/lihuan777/MedicalQA
 
 ### 百度网盘资源
 ```
-链接：https://pan.baidu.com/s/1PnA3dLZ5eg93VElXJ5VTjQ 
+链接: https://pan.baidu.com/s/1Iq8FqLjKLir0_ptOYz78xA?pwd=siaq
 提取码：a6t8
 包含内容：
 - 完整源代码
